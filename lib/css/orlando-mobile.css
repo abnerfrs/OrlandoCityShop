@@ -1,0 +1,17 @@
+/* Tamanho Tablet */
+
+@media only screen and (max-width: 768px){
+    
+    .header-black {
+        display: none;
+    }
+
+}
+
+/* Tamanho padrão para Smartphones */
+
+@media only screen and (max-width: 480px){
+
+
+
+}
